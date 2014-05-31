@@ -1,0 +1,13 @@
+{
+  "name": "t3",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.1.1",
+    "jquery": "~1.11.0",
+    "watch": "*",
+    "d3": "~3.4.8",
+    "ramda": "https://github.com/CrossEye/ramda.git",
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {}
+}
